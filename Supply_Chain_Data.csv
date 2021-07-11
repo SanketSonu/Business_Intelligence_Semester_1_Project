@@ -1,0 +1,85 @@
+Raw Quantity_Plastic,Raw Quantity_Steel,"Raw Quantity_Glass	","Raw Quantity_Wheels	",Products_In_Progress,Products_In_Inventory,Year,Quareter,ProductLine,,Source,destination
+2128,1942,2578,1500,Production_Line 1,139,2003,q1,Classic Cars      ,,Central Ware House,East Warehouse
+2531,1646,1934,2233,Production_Line 1,105,2003,q1,Vintage Cars      ,,Central Ware House,East Warehouse
+2691,2145,1939,1570,Production_Line 1,244,2003,q1,Motorcycles       ,,Central Ware House,East Warehouse
+1836,2433,2433,2757,Production_Line 1,865,2003,q1,Trucks and Buses  ,,Central Ware House,East Warehouse
+2467,1501,2604,2065,Production_Line 1,606,2003,q1,Planes            ,,Central Ware House,West Warehouse
+1828,1852,2728,2762,Production_Line 1,497,2003,q1,Ships             ,,Central Ware House,North Warehouse
+2546,1515,1515,2996,Production_Line 1,663,2003,q1,Trains            ,,Central Ware House,East Warehouse
+1657,2267,2008,2065,Production_Line 1,208,2004,q1,Classic Cars      ,,Central Ware House,East Warehouse
+1991,2886,2710,2206,Production_Line 1,630,2004,q1,Vintage Cars      ,,Central Ware House,West Warehouse
+2601,1647,2144,1970,Production_Line 1,383,2004,q1,Motorcycles       ,,Central Ware House,North Warehouse
+1723,1797,2776,1697,Production_Line 1,564,2004,q1,Trucks and Buses  ,,Central Ware House,North Warehouse
+1585,1511,1584,2338,Production_Line 1,865,2004,q1,Planes            ,,Central Ware House,North Warehouse
+2720,2232,1729,2993,Production_Line 1,119,2004,q1,Ships             ,,Central Ware House,West Warehouse
+2981,2704,2799,2339,Production_Line 1,232,2004,q1,Trains            ,,Central Ware House,East Warehouse
+1772,1602,2800,2455,Production_Line 1,410,2005,q1,Classic Cars      ,,Central Ware House,North Warehouse
+1568,2864,2507,1802,Production_Line 1,171,2005,q1,Vintage Cars      ,,Central Ware House,West Warehouse
+1768,1670,1673,2402,Production_Line 1,835,2005,q1,Motorcycles       ,,Central Ware House,North Warehouse
+2791,2861,2935,2147,Production_Line 1,771,2005,q1,Trucks and Buses  ,,Central Ware House,North Warehouse
+2297,1736,1702,1986,Production_Line 1,282,2005,q1,Planes            ,,Central Ware House,East Warehouse
+1778,2870,1917,1611,Production_Line 1,936,2005,q1,Ships             ,,Central Ware House,North Warehouse
+1767,2014,2829,2306,Production_Line 1,192,2005,q1,Trains            ,,Central Ware House,North Warehouse
+1892,1634,1643,2785,Production_Line 1,1871,2003,q2,Classic Cars      ,,Central Ware House,West Warehouse
+2875,2007,1535,1939,Production_Line 2,1449,2003,q2,Vintage Cars      ,,Central Ware House,West Warehouse
+1501,2280,2602,1808,Production_Line 2,1771,2003,q2,Motorcycles       ,,Central Ware House,West Warehouse
+2052,1544,1810,1705,Production_Line 3,1375,2003,q2,Trucks and Buses  ,,Central Ware House,West Warehouse
+2640,2660,2466,2370,Production_Line 3,1734,2003,q2,Planes            ,,Central Ware House,North Warehouse
+2610,2086,2188,1918,Production_Line 3,1227,2003,q2,Ships             ,,Central Ware House,North Warehouse
+2914,2655,2602,2703,Production_Line 3,1506,2003,q2,Trains            ,,Central Ware House,West Warehouse
+2999,1976,1800,1788,Production_Line 2,1227,2004,q2,Classic Cars      ,,Central Ware House,East Warehouse
+2435,2489,1900,2035,Production_Line 3,1572,2004,q2,Vintage Cars      ,,Central Ware House,West Warehouse
+2592,2607,2429,2130,Production_Line 2,1517,2004,q2,Motorcycles       ,,Central Ware House,East Warehouse
+1673,2163,2701,1812,Production_Line 2,1926,2004,q2,Trucks and Buses  ,,Central Ware House,East Warehouse
+2489,2141,2803,2465,Production_Line 2,1437,2004,q2,Planes            ,,Central Ware House,East Warehouse
+2947,2405,1625,2311,Production_Line 3,1988,2004,q2,Ships             ,,Central Ware House,West Warehouse
+2033,2090,1684,2235,Production_Line 3,1323,2004,q2,Trains            ,,Central Ware House,West Warehouse
+1929,2149,2225,2842,Production_Line 3,1366,2005,q2,Classic Cars      ,,Central Ware House,North Warehouse
+1930,2857,2373,2931,Production_Line 3,1827,2005,q2,Vintage Cars      ,,Central Ware House,West Warehouse
+2198,2872,2246,2460,Production_Line 3,1872,2005,q2,Motorcycles       ,,Central Ware House,East Warehouse
+1669,2321,2643,2571,Production_Line 2,1395,2005,q2,Trucks and Buses  ,,Central Ware House,West Warehouse
+2824,1999,2358,2016,Production_Line 2,1836,2005,q2,Planes            ,,Central Ware House,East Warehouse
+2614,1858,2832,1736,Production_Line 3,1261,2005,q2,Ships             ,,Central Ware House,North Warehouse
+1731,2146,2421,2274,Production_Line 2,1922,2005,q2,Trains            ,,Central Ware House,North Warehouse
+1023,584,1198,784,Production_Line 3,1598,2003,q3,Classic Cars      ,,Central Ware House,East Warehouse
+861,552,697,1048,Production_Line 3,1552,2003,q3,Vintage Cars      ,,Central Ware House,East Warehouse
+888,1317,1303,882,Final Release,1944,2003,q3,Motorcycles       ,,Central Ware House,East Warehouse
+586,674,831,669,Production_Line 3,1749,2003,q3,Trucks and Buses  ,,Central Ware House,West Warehouse
+1345,1103,865,1350,Final Release,1615,2003,q3,Planes            ,,Central Ware House,North Warehouse
+1030,1294,1400,1244,Production_Line 3,1740,2003,q3,Ships             ,,Central Ware House,West Warehouse
+1357,965,977,684,Final Release,1657,2003,q3,Trains            ,,Central Ware House,East Warehouse
+656,559,1033,518,Final Release,1289,2004,q3,Classic Cars      ,,Central Ware House,North Warehouse
+1112,1259,601,1479,Production_Line 3,1150,2004,q3,Vintage Cars      ,,Central Ware House,West Warehouse
+1200,1260,1010,909,Production_Line 3,1737,2004,q3,Motorcycles       ,,Central Ware House,West Warehouse
+502,528,604,698,Final Release,1640,2004,q3,Trucks and Buses  ,,Central Ware House,West Warehouse
+1346,566,1098,877,Production_Line 3,1491,2004,q3,Planes            ,,Central Ware House,North Warehouse
+1163,626,652,959,Final Release,1631,2004,q3,Ships             ,,Central Ware House,North Warehouse
+1366,1145,1126,685,Production_Line 3,1813,2004,q3,Trains            ,,Central Ware House,North Warehouse
+988,1190,1128,1433,Final Release,1310,2005,q3,Classic Cars      ,,Central Ware House,East Warehouse
+547,862,930,1128,Production_Line 3,1560,2005,q3,Vintage Cars      ,,Central Ware House,West Warehouse
+1032,541,1493,1170,Final Release,1577,2005,q3,Motorcycles       ,,Central Ware House,West Warehouse
+703,1500,715,1483,Production_Line 3,1980,2005,q3,Trucks and Buses  ,,Central Ware House,North Warehouse
+813,1395,1386,577,Production_Line 3,1859,2005,q3,Planes            ,,Central Ware House,West Warehouse
+1378,1291,770,677,Production_Line 3,1490,2005,q3,Ships             ,,Central Ware House,North Warehouse
+632,1436,782,1356,Final Release,1969,2005,q3,Trains            ,,Central Ware House,East Warehouse
+303,619,571,615,Final Release,867,2003,q4,Classic Cars      ,,Central Ware House,West Warehouse
+575,632,765,626,Final Release,571,2003,q4,Vintage Cars      ,,Central Ware House,East Warehouse
+780,762,619,375,Final Release,306,2003,q4,Motorcycles       ,,Central Ware House,North Warehouse
+350,797,739,412,Production_Line 1,890,2003,q4,Trucks and Buses  ,,Central Ware House,West Warehouse
+659,758,382,704,Production_Line 1,254,2003,q4,Planes            ,,Central Ware House,East Warehouse
+523,341,444,500,Final Release,502,2003,q4,Ships             ,,Central Ware House,West Warehouse
+768,687,541,647,Production_Line 1,322,2003,q4,Trains            ,,Central Ware House,East Warehouse
+708,662,750,331,Final Release,519,2004,q4,Classic Cars      ,,Central Ware House,East Warehouse
+637,471,382,425,Production_Line 1,744,2004,q4,Vintage Cars      ,,Central Ware House,West Warehouse
+318,507,445,567,Final Release,974,2004,q4,Motorcycles       ,,Central Ware House,East Warehouse
+443,446,410,455,Production_Line 1,992,2004,q4,Trucks and Buses  ,,Central Ware House,North Warehouse
+338,307,361,625,Production_Line 1,297,2004,q4,Planes            ,,Central Ware House,North Warehouse
+792,453,698,735,Final Release,419,2004,q4,Ships             ,,Central Ware House,West Warehouse
+780,751,389,560,Production_Line 1,739,2004,q4,Trains            ,,Central Ware House,West Warehouse
+441,588,451,610,Production_Line 1,112,2005,q4,Classic Cars      ,,Central Ware House,West Warehouse
+513,363,589,785,Final Release,757,2005,q4,Vintage Cars      ,,Central Ware House,West Warehouse
+586,559,504,619,Final Release,852,2005,q4,Motorcycles       ,,Central Ware House,West Warehouse
+400,312,706,502,Final Release,989,2005,q4,Trucks and Buses  ,,Central Ware House,East Warehouse
+595,752,589,529,Production_Line 1,473,2005,q4,Planes            ,,Central Ware House,East Warehouse
+787,336,521,665,Production_Line 1,503,2005,q4,Ships             ,,Central Ware House,East Warehouse
+490,555,549,323,Production_Line 1,209,2005,q4,Trains            ,,Central Ware House,East Warehouse
